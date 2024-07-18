@@ -1,4 +1,4 @@
 # IntroductionToDataScience
-Material designed for Certificate Course at Mount Carmel College, Bangalore, July-Aug 2022
+Material originally designed for Certificate Course at Mount Carmel College, Bangalore, July-Aug 2022
 
-Material will be updated after every class for further reference. 
+Material updated for other courses too.
